@@ -1,1 +1,1 @@
-worker : node nura.js
+worker: node nura.js
